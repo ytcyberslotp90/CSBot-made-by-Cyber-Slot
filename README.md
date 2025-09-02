@@ -36,7 +36,7 @@ Once CSBot starts:
 
 ## 📜 License
 This project is licensed under the **CSBot License**.  
-See [LICENSE](./license.txt) for details.  
+See [LICENSE](./licenses.CSBot.txt) for details.  
 
 ---
 
