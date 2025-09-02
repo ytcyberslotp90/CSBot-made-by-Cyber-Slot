@@ -37,7 +37,7 @@ Once CSBot starts:
 ---
 
 ## 📸 Screenshot
-![CSBot_Screenshot](https://github.com/ytcyberslotp90/CSBot-made-by-Cyber-Slot/blob/main/Screenshot%202025-09-02%20145756.png)
+![CSBot Screenshot](https://github.com/ytcyberslotp90/CSBot-made-by-Cyber-Slot/raw/main/Screenshot%202025-09-02%20145756.png)
 
 ---
 
