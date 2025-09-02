@@ -19,13 +19,6 @@ and a Linux-style terminal UI.
 
 ---
 
-## 🛠️ Installation
-1. Download the installer or `.exe` from the releases page.  
-2. Run the setup and follow the steps.  
-3. Start CSBot from Start Menu or Desktop.  
-
----
-
 ## 🎮 Usage
 Once CSBot starts:  
 - Just type your message after the prompt.  
