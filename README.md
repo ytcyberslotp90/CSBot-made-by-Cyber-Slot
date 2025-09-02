@@ -1,2 +1,53 @@
-# CSBot-made-by-Cyber-Slot
-CSBot is a very useful AI assistant made by Cyber Slot
+# 🤖 CSBot - Cyber Slot AI Assistant
+
+CSBot is a **text-based AI assistant** made by **Cyber Slot (Krishnendu Maji)**.  
+It runs directly from Windows terminal. Comes with **voice output (TTS)** 
+and a Linux-style terminal UI.  
+
+---
+
+## ✨ Features
+- 🎨 Fancy colored Linux-like terminal design  
+- 🗣️ Built-in TTS (voice output) – toggle with `:voiceon:` / `:voiceoff:`  
+- 🧹 Commands like `:clear:` and `:exit:`  
+- 🖥️ Works on Windows 7 / 8 / 10 / 11  
+
+---
+
+## 📥 Download
+👉 [**Download CSBot latest release**](https://github.com/ytcyberslotp90/CSBot/releases)
+
+---
+
+## 🛠️ Installation
+1. Download the installer or `.exe` from the releases page.  
+2. Run the setup and follow the steps.  
+3. Start CSBot from Start Menu or Desktop.  
+
+---
+
+## 🎮 Usage
+Once CSBot starts:  
+- Just type your message after the prompt.  
+- Use special commands:  
+  - `:exit:` → Quit the program  
+  - `:clear:` → Clear the screen  
+  - `:voiceon:` / `:voiceoff:` → Toggle TTS  
+
+---
+
+## 📸 Screenshots
+*(Add your screenshots here)*
+
+---
+
+## 📜 License
+This project is licensed under the **CSBot License**.  
+See [LICENSE](./license.txt) for details.  
+
+---
+
+### 🌐 Author
+Made with ❤️ by **Cyber Slot (Krishnendu Maji)**  
+- YouTube: [Cyber Slot](https://www.youtube.com/@cyberslot-p90)  
+- Website: [Official Cyber Slot Website](https://ytcyberslotp90.github.io/Cyber-Slot-Official-Website/)  
