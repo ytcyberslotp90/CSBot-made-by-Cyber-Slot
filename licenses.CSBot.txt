@@ -1,0 +1,22 @@
+Cyber Slot CSBot License Agreement
+----------------------------------
+
+Copyright (c) 2025 Krishnendu Maji (Cyber Slot)
+
+1. Permission
+   - You are allowed to install and use CSBot on your personal computer.
+   - You may share the installer with friends, but you must not sell it.
+
+2. Restrictions
+   - Do not reverse engineer, decompile, or modify CSBot.exe.
+   - Do not claim CSBot as your own creation.
+
+3. Disclaimer
+   - CSBot is provided "as is" without any warranty.
+   - The creator is not responsible for any data loss, damage, or issues caused by misuse.
+
+4. Fun Note
+   - CSBot was made with love, batch skills, and a lot of ☕ chai.
+   - Respect the creator and enjoy hacking responsibly!
+
+By clicking "I Agree" in the installer, you accept all the terms above.
